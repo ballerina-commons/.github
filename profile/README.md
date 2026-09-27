@@ -1,4 +1,4 @@
-# Ballerina Commons
+# Ballerina Commons Modules
 
 **🚀 Comprehensive Utility Modules for Modern Ballerina Development**
 
@@ -9,7 +9,7 @@ Welcome to **Ballerina Commons** - a curated collection of powerful, production-
 
 **Empowering Ballerina developers with comprehensive, intuitive, and powerful utility modules that make complex operations simple and reliable.**
 
-We believe that developers should focus on building amazing applications, not reimplementing common functionality. Ballerina Commons bridges the gap between the standard library and real-world application needs, providing battle-tested utilities that handle the complexities so you don't have to.
+I believe that developers should focus on building amazing applications, not reimplementing common functionality. Ballerina Commons bridges the gap between the standard library and real-world application needs, providing battle-tested utilities that handle the complexities so you don't have to.
 
 ## 🎯 Why Ballerina Commons?
 
